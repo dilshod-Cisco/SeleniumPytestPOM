@@ -1,0 +1,9 @@
+#.idea/
+
+#data/config.yml
+
+.pytest_cache/
+.idea/
+__pycache__/
+
+
