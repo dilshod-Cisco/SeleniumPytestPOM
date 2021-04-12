@@ -1,0 +1,19 @@
+2020-10-12 17:30:16,443 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture *********
+2020-10-12 17:30:19,569 [INFO] driver: **********  SETUP fixture completed **********
+2020-10-12 17:30:19,569 [INFO] test_login_case1: test_login_case1 started....
+2020-10-12 17:30:21,966 [INFO] click_element_by_xpath: xpath provided: //a[@class='login']
+2020-10-12 17:30:22,078 [INFO] click_element_by_xpath: clicking the element
+2020-10-12 17:30:25,039 [INFO] enter_text_by_xpath: xpath provided: //input[@id='email']
+2020-10-12 17:30:25,047 [INFO] enter_text_by_xpath: entering the following text :helo@email.com
+2020-10-12 17:30:25,131 [INFO] enter_email: email entered helo@email.com
+2020-10-12 17:30:25,131 [INFO] enter_text_by_xpath: xpath provided: //input[@id='passwd']
+2020-10-12 17:30:25,139 [INFO] enter_text_by_xpath: entering the following text :612345
+2020-10-12 17:30:25,203 [INFO] enter_password: email entered 612345
+2020-10-12 17:30:25,203 [INFO] click_element_by_xpath: xpath provided: <bound method LoginPage.click_sign_in_button of <src.pages.login_page.LoginPage object at 0x0000021401A1DCA0>>
+2020-10-12 17:30:25,399 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-12 17:30:25,403 [INFO] driver: Current url:  http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-10-12 17:30:25,411 [INFO] driver: Current title: Login - My Store
+2020-10-12 17:30:25,411 [INFO] driver: Current win_handle: CDwindow-E06280513622068B688A599A57A53A78
+2020-10-12 17:30:25,411 [INFO] driver: Current name: chrome
+2020-10-12 17:30:27,584 [INFO] driver: browser is closed
+2020-10-12 17:30:27,584 [INFO] driver: ********  TEARDOWN completed *************

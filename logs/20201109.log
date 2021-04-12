@@ -1,0 +1,28 @@
+2020-11-09 15:19:42,018 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture *********
+2020-11-09 15:19:45,547 [INFO] driver: **********  SETUP fixture completed **********
+2020-11-09 15:19:45,547 [INFO] test_login_case1: test_login_case1 started....
+2020-11-09 15:19:48,013 [INFO] click_element_by_xpath: xpath provided: //a[@class='login']
+2020-11-09 15:19:48,049 [INFO] click_element_by_xpath: clicking the element
+2020-11-09 15:19:50,964 [INFO] enter_text_by_xpath: xpath provided: //input[@id='email']
+2020-11-09 15:19:50,976 [INFO] enter_text_by_xpath: entering the following text :helo@email.com
+2020-11-09 15:19:51,048 [INFO] enter_email: email entered helo@email.com
+2020-11-09 15:19:51,048 [INFO] enter_text_by_xpath: xpath provided: //input[@id='passwd']
+2020-11-09 15:19:51,056 [INFO] enter_text_by_xpath: entering the following text :612345
+2020-11-09 15:19:51,108 [INFO] enter_password: email entered 612345
+2020-11-09 15:19:51,108 [INFO] click_element_by_xpath: xpath provided: <bound method LoginPage.click_sign_in_button of <src.pages.login_page.LoginPage object at 0x000002166103AC10>>
+2020-11-09 15:19:51,276 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-11-09 15:19:51,280 [INFO] driver: Current url:  http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-11-09 15:19:51,284 [INFO] driver: Current title: Login - My Store
+2020-11-09 15:19:51,284 [INFO] driver: Current win_handle: CDwindow-8AA0E64EAF565A21154DCECEADF20B05
+2020-11-09 15:19:51,284 [INFO] driver: Current name: chrome
+2020-11-09 15:19:53,415 [INFO] driver: browser is closed
+2020-11-09 15:19:53,415 [INFO] driver: ********  TEARDOWN completed *************
+2020-11-09 15:29:03,132 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture *********
+2020-11-09 15:29:06,248 [INFO] driver: **********  SETUP fixture completed **********
+2020-11-09 15:29:06,256 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-11-09 15:29:06,272 [INFO] driver: Current url:  data:,
+2020-11-09 15:29:06,280 [INFO] driver: Current title: 
+2020-11-09 15:29:06,284 [INFO] driver: Current win_handle: CDwindow-AC2BA3262C9FA67C43224EC4FE9DA3CD
+2020-11-09 15:29:06,284 [INFO] driver: Current name: chrome
+2020-11-09 15:29:08,404 [INFO] driver: browser is closed
+2020-11-09 15:29:08,404 [INFO] driver: ********  TEARDOWN completed *************

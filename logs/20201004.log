@@ -1,0 +1,54 @@
+2020-10-04 20:14:55,522 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture *********
+2020-10-04 20:15:05,969 [INFO] driver: **********  SETUP fixture completed **********
+2020-10-04 20:15:05,969 [INFO] test_login_case1: test_login_case1 started....
+2020-10-04 20:15:09,211 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-04 20:15:09,223 [INFO] driver: Current url:  http://automationpractice.com/index.php
+2020-10-04 20:15:09,227 [INFO] driver: Current title: My Store
+2020-10-04 20:15:09,227 [INFO] driver: Current win_handle: CDwindow-B585EFEB8B98B94271C61B4EDB4636F1
+2020-10-04 20:15:09,227 [INFO] driver: Current name: chrome
+2020-10-04 20:15:12,429 [INFO] driver: browser is closed
+2020-10-04 20:15:12,429 [INFO] driver: ********  TEARDOWN completed *************
+2020-10-04 20:26:25,171 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture *********
+2020-10-04 20:26:30,714 [INFO] driver: **********  SETUP fixture completed **********
+2020-10-04 20:26:30,716 [INFO] test_login_case1: test_login_case1 started....
+2020-10-04 20:26:33,086 [INFO] click_element_by_xpath: xpath provided: //a[@class='login']
+2020-10-04 20:26:33,206 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-04 20:26:33,214 [INFO] driver: Current url:  http://automationpractice.com/index.php
+2020-10-04 20:26:33,218 [INFO] driver: Current title: My Store
+2020-10-04 20:26:33,222 [INFO] driver: Current win_handle: CDwindow-E83D2266BFAD7D5041639D6CBB6C4E63
+2020-10-04 20:26:33,222 [INFO] driver: Current name: chrome
+2020-10-04 20:26:35,376 [INFO] driver: browser is closed
+2020-10-04 20:26:35,376 [INFO] driver: ********  TEARDOWN completed *************
+2020-10-04 20:34:57,784 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture *********
+2020-10-04 20:35:03,268 [INFO] driver: **********  SETUP fixture completed **********
+2020-10-04 20:35:03,268 [INFO] test_login_case1: test_login_case1 started....
+2020-10-04 20:35:05,979 [INFO] click_element_by_xpath: xpath provided: //a[@class='login']
+2020-10-04 20:35:06,091 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-04 20:35:06,095 [INFO] driver: Current url:  http://automationpractice.com/index.php
+2020-10-04 20:35:06,099 [INFO] driver: Current title: My Store
+2020-10-04 20:35:06,099 [INFO] driver: Current win_handle: CDwindow-0AE2336D8AD9DCFF673D7D8401E738A0
+2020-10-04 20:35:06,099 [INFO] driver: Current name: chrome
+2020-10-04 20:35:08,245 [INFO] driver: browser is closed
+2020-10-04 20:35:08,245 [INFO] driver: ********  TEARDOWN completed *************
+2020-10-04 20:37:12,726 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture *********
+2020-10-04 20:37:15,834 [INFO] driver: **********  SETUP fixture completed **********
+2020-10-04 20:37:15,838 [INFO] test_login_case1: test_login_case1 started....
+2020-10-04 20:37:18,157 [INFO] click_element_by_xpath: xpath provided: //a[@class='login']
+2020-10-04 20:37:18,289 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-04 20:37:18,297 [INFO] driver: Current url:  http://automationpractice.com/index.php
+2020-10-04 20:37:18,301 [INFO] driver: Current title: My Store
+2020-10-04 20:37:18,301 [INFO] driver: Current win_handle: CDwindow-2CAFB7C0733E330F17E6255E1333F449
+2020-10-04 20:37:18,301 [INFO] driver: Current name: chrome
+2020-10-04 20:37:20,411 [INFO] driver: browser is closed
+2020-10-04 20:37:20,411 [INFO] driver: ********  TEARDOWN completed *************
+2020-10-04 20:39:57,357 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture *********
+2020-10-04 20:40:00,457 [INFO] driver: **********  SETUP fixture completed **********
+2020-10-04 20:40:00,457 [INFO] test_login_case1: test_login_case1 started....
+2020-10-04 20:40:03,151 [INFO] click_element_by_xpath: xpath provided: //a[@class='login']
+2020-10-04 20:40:03,283 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-04 20:40:03,295 [INFO] driver: Current url:  http://automationpractice.com/index.php
+2020-10-04 20:40:03,299 [INFO] driver: Current title: My Store
+2020-10-04 20:40:03,299 [INFO] driver: Current win_handle: CDwindow-60487DE7DC648FBD94A76E6222D5D25F
+2020-10-04 20:40:03,299 [INFO] driver: Current name: chrome
+2020-10-04 20:40:05,400 [INFO] driver: browser is closed
+2020-10-04 20:40:05,400 [INFO] driver: ********  TEARDOWN completed *************

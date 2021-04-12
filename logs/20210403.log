@@ -1,0 +1,28 @@
+2021-04-03 01:57:45,590 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture *********
+2021-04-03 01:57:46,978 [INFO] driver: **********  SETUP fixture completed **********
+2021-04-03 01:57:46,979 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2021-04-03 01:57:46,985 [INFO] driver: Current url:  data:,
+2021-04-03 01:57:46,989 [INFO] driver: Current title: 
+2021-04-03 01:57:46,989 [INFO] driver: Current win_handle: CDwindow-916770C2D293DA796EDA6BA2D91C99AB
+2021-04-03 01:57:46,990 [INFO] driver: Current name: chrome
+2021-04-03 01:57:49,104 [INFO] driver: browser is closed
+2021-04-03 01:57:49,105 [INFO] driver: ********  TEARDOWN completed *************
+2021-04-03 01:59:06,914 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture *********
+2021-04-03 01:59:07,978 [INFO] driver: **********  SETUP fixture completed **********
+2021-04-03 01:59:07,979 [INFO] test_login_case1: test_login_case1 started....
+2021-04-03 01:59:10,908 [INFO] click_element_by_xpath: xpath provided: //a[@class='login']
+2021-04-03 01:59:10,944 [INFO] click_element_by_xpath: clicking the element
+2021-04-03 01:59:13,868 [INFO] enter_text_by_xpath: xpath provided: //input[@id='email']
+2021-04-03 01:59:13,878 [INFO] enter_text_by_xpath: entering the following text :helo@email.com
+2021-04-03 01:59:13,943 [INFO] enter_email: email entered helo@email.com
+2021-04-03 01:59:13,943 [INFO] enter_text_by_xpath: xpath provided: //input[@id='passwd']
+2021-04-03 01:59:13,952 [INFO] enter_text_by_xpath: entering the following text :612345
+2021-04-03 01:59:14,002 [INFO] enter_password: email entered 612345
+2021-04-03 01:59:14,002 [INFO] click_element_by_xpath: xpath provided: <bound method LoginPage.click_sign_in_button of <src.pages.login_page.LoginPage object at 0x000002924F23FDC0>>
+2021-04-03 01:59:14,217 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2021-04-03 01:59:14,221 [INFO] driver: Current url:  http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-04-03 01:59:14,225 [INFO] driver: Current title: Login - My Store
+2021-04-03 01:59:14,226 [INFO] driver: Current win_handle: CDwindow-8FAFEEFABDF9F29D1A37F5FD6B6C510D
+2021-04-03 01:59:14,226 [INFO] driver: Current name: chrome
+2021-04-03 01:59:16,389 [INFO] driver: browser is closed
+2021-04-03 01:59:16,390 [INFO] driver: ********  TEARDOWN completed *************

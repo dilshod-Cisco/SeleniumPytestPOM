@@ -1,0 +1,12 @@
+#.idea/
+
+#data/login_negative.yml
+
+.pytest_cache/
+.idea/
+__pycache__/
+.yml/
+.main/
+
+
+
